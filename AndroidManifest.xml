@@ -29,7 +29,6 @@
             android:name=".SettingsActivity"
             android:configChanges="orientation|keyboardHidden"
             android:label=""
-            android:screenOrientation="landscape"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
         </activity>
     </application>
